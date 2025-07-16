@@ -1,0 +1,26 @@
+				@font-face {
+					font-family: 'niagara';
+					src: url('/wp-content/uploads/useanyfont/170330083950Niagara.woff') format('woff');
+				}
+
+				.niagara{font-family: 'niagara' !important;}
+
+						#menu-main{
+					font-family: 'niagara' !important;
+				}
+						.fmp-title{
+					font-family: 'niagara' !important;
+				}
+						.simcal-current-month{
+					font-family: 'niagara' !important;
+				}
+						.simcal-current-year{
+					font-family: 'niagara' !important;
+				}
+						.tour{
+					font-family: 'niagara' !important;
+				}
+						.menu-home{
+					font-family: 'niagara' !important;
+				}
+		
